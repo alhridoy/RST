@@ -1,3 +1,4 @@
+"""
 .. note::
 
    Using ``arange`` with the ``step`` argument can lead to precision errors, 
